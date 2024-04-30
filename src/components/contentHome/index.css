@@ -1,0 +1,12 @@
+.content-home {
+  background-image: url("../asset/logo.jpg");
+}
+
+.content-home .container {
+  padding-top: 5rem;
+}
+
+.content-home h1 {
+  font-size: 4rem;
+  font-weight: bold;
+}
